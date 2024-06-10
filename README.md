@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm !! Coding Xx ??</h1>
-<h1 align="center">My age = 14</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Nityasha](https://nityasha.com/)
