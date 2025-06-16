@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Nityasha](https://nityasha.com/)
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **nothing lol**
 
-- 📝 I regularly write articles on [https://insightword.in/](https://insightword.in/)
-
-- 💬 Ask me about **react , gsap vue**
+- 💬 Ask me about **react , gsap vue, react native**
 
 - ⚡ Fun fact **I Think me is Gamer lol**
 
