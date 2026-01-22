@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Coding Xx</h1>
+<h1 align="center">Hi, I'm Ko</h1>
 <h3 align="center">Frontend Engineer • Full-Stack Developer • India</h3>
 
 ---
